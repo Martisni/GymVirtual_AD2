@@ -1,0 +1,26 @@
+[
+  {
+    "modalidad": "Tren Inferior",
+    "material": false,
+    "numeroSeries": 3,
+    "numeroRepeticiones": 10,
+    "diasEntrenados": 2,
+    "duracion": 1
+  },
+  {
+    "modalidad": "Tren Superior",
+    "material": true,
+    "numeroSeries": 2,
+    "numeroRepeticiones": 20,
+    "diasEntrenados": 1,
+    "duracion": 1.15
+  },
+  {
+    "modalidad": "Modalidad",
+    "material": true,
+    "numeroSeries": 6,
+    "numeroRepeticiones": 5,
+    "diasEntrenados": 3,
+    "duracion": 45
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "peso": 43,
+    "ritmoCardico": 79,
+    "medidas": "60 - 90 - 60",
+    "imc": 15,
+    "obesidad": false,
+    "fechaMedicion": "2023-04-25"
+  },
+  {
+    "peso": 88,
+    "ritmoCardico": 81,
+    "medidas": "90 - 120 - 90",
+    "imc": 30,
+    "obesidad": true,
+    "fechaMedicion": "2023-07-13"
+  },
+  {
+    "peso": 69,
+    "ritmoCardico": 77,
+    "medidas": "60 - 90 - 60",
+    "imc": 22,
+    "obesidad": false,
+    "fechaMedicion": "2023-09-07"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "nombreUsuario": "Marta",
+    "dniUsuario": "12335678A",
+    "correo": "marta@exampie.com",
+    "fechaNacimiento": "2000-01-01",
+    "phone": "123456789",
+    "lesionado": true
+  },
+  {
+    "nombreUsuario": "Hugo",
+    "dniUsuario": "12377878A",
+    "correo": "hugo@correo.com",
+    "fechaNacimiento": "1980-01-01",
+    "phone": "987654321",
+    "lesionado": false
+  },
+  {
+    "nombreUsuario": "Ines",
+    "dniUsuario": "98765432R",
+    "correo": "ines@coasa.com",
+    "fechaNacimiento": "2002-01-01",
+    "phone": "741258963",
+    "lesionado": true
+  }
+]
