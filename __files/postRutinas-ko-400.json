@@ -1,0 +1,10 @@
+{
+  "code": 400,
+  "message": "Rutina bad request",
+  "errors": {
+    "modalidad": "El campo es obligatorio.",
+    "numeroSeries": "El campo es obligatorio.",
+    "numeroRepeticiones": "El campo es obligatorio.",
+    "diasEntrenados": "El campo es obligatorio."
+  }
+}

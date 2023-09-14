@@ -1,0 +1,8 @@
+{
+  "modalidad": "Tren Superior",
+  "material": true,
+  "numeroSeries": 2,
+  "numeroRepeticiones": 20,
+  "diasEntrenados": 1,
+  "duracion": 1.15
+}
